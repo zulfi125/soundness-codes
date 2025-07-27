@@ -1,5 +1,6 @@
 # soundness-codes
 
+discord link: https://discord.gg/JYFZWwKG9p
 
 Run each command **one by one**:  
 
