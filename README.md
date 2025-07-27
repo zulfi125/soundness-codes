@@ -40,6 +40,11 @@ If you saved your mnemonic previously, you can import it to key_store.json by us
 soundness-cli import-key --name my-key --mnemonic "<your‑mnemonic‑words>"
 
 ```
+or if you have a raw key string:
+```sh
+soundness-cli import-key --name my-key --key "<your‑raw‑private‑key>"
+
+```
 If it was successful you'll get:
 ```sh
 ✅ Imported key pair '<imported-key-name>'
