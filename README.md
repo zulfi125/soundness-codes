@@ -28,21 +28,12 @@ soundnessup install
 soundnessup update
 ```
 
-```sh
-soundness-cli generate-key --name my-key
-```
 
-```sh
-soundness-cli export-key --name my-key
-```
 If you saved your mnemonic previously, you can import it to key_store.json by using following command:
 ```sh
 soundness-cli import-key --name my-key --mnemonic "<your‑mnemonic‑words>"
 
 ```
-or if you have a raw key string:
-```sh
-soundness-cli import-key --name my-key --key "<your‑raw‑private‑key>"
 
 ```
 If it was successful you'll get:
