@@ -48,8 +48,8 @@ soundness-cli export-key --name my-key
 
 If it was successful you'll get:
 
-✅ Imported key pair '<imported-key-name>'
-🔑 Public key: <base64-encoded-public-key>
+✅ Imported key pair 'my-key'
+🔑 Public key:
 
 ```
 To view all stored key pairs:
