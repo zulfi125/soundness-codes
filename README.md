@@ -28,12 +28,13 @@ soundnessup install
 soundnessup update
 ```
 
-
+you need to import your old wallet by import mnemonic seed phrase 
 If you saved your mnemonic previously, you can import it to key_store.json by using following command:
 ```sh
 soundness-cli import-key --name my-key --mnemonic "<your‑mnemonic‑words>"
 
 ```
+if you lost old  mnemonic seed phrase then can create new and replace in discord soundness-cockpit channel
 ```
 soundness-cli generate-key --name my-key
 
