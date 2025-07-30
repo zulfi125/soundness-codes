@@ -34,6 +34,14 @@ If you saved your mnemonic previously, you can import it to key_store.json by us
 soundness-cli import-key --name my-key --mnemonic "<your‑mnemonic‑words>"
 
 ```
+```
+soundness-cli generate-key --name my-key
+
+```
+```
+soundness-cli export-key --name my-key
+
+```
 
 ```
 If it was successful you'll get:
