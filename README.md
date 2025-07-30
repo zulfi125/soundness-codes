@@ -51,7 +51,7 @@ If it was successful you'll get:
 ✅ Imported key pair 'my-key'
 🔑 Public key:
 
-```
+
 To view all stored key pairs:
 ```sh
 soundness-cli list-keys
