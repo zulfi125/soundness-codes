@@ -39,6 +39,7 @@ if you lost old  mnemonic seed phrase then can create new and replace in discord
 soundness-cli generate-key --name my-key
 
 ```
+you can export your key 
 ```
 soundness-cli export-key --name my-key
 
