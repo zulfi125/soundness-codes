@@ -49,6 +49,7 @@ soundness-cli export-key --name my-key
 If it was successful you'll get:
 
 ✅ Imported key pair 'my-key'
+
 🔑 Public key:
 
 
